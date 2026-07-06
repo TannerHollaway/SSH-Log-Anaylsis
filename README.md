@@ -1,10 +1,4 @@
 # SSH Log Analysis
-
-**Platform:** Blue Team Labs Online  
-**Category:** Security Operations  
-**Difficulty:** Easy  
-**Date Completed:** 2025-XX-XX
-
 ---
 
 ## Scenario

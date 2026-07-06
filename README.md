@@ -59,6 +59,8 @@ Grepping the attacker IP and taking the first hit gives the earliest connection.
 
 ---
 
+![Questions](images/screenshot2.png)
+
 ## Question Walkthrough
 
 **Q1: Is it an internal or external attack, what is the attacker IP?**  
